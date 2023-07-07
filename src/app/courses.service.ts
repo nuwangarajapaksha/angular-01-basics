@@ -1,0 +1,6 @@
+//05,06,07
+export class CourseService {
+  getCourse() {
+    return ['course1', 'course2', 'course3'];
+  }
+}
